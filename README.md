@@ -8,6 +8,6 @@ This repository contains the complete "Anna AI" product build, documenting its j
 * Market & Competitor Analysis
 * Product Requirements Document (PRD)
 * User Stories & Feature Mapping
-* Wireframes (Low- and High-Fidelity)
+* Wireframes (Low and High Fidelity)
 * Figma Designs
 * Full Product Roadmap
