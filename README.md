@@ -28,7 +28,7 @@ So the product question I started with was: **what is the minimum number of inte
 Anna.ai is my answer to that question.
 
 
-## Phase 1: Research - Understanding Before Designing
+## Phase 1: Research- Understanding Before Designing
 
 I want to be clear about something, I did not start designing screens first. I know that is tempting, especially when you already have ideas, but I have learned that the most dangerous thing a designer or PM can do is fall in love with their solution before they have validated the problem. So I spent a good chunk of this project just researching.
 
@@ -56,7 +56,7 @@ And when I looked at where AI is being applied in travel, there are three main a
 
 
 
-### Competitive Analysis — What Is Already Out There in the MARKET?
+### Competitive Analysis- What Is Already Out There in the MARKET?
 
 I analyzed six competitors. I did not just look at features, I looked at their *strategic positioning*, what user segment they were going after, and most importantly, **where each of them was leaving value on the table.**
 
