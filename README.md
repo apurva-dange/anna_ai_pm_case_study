@@ -28,7 +28,7 @@ That's the gap Anna.ai fills. One conversational AI that helps you find deals, p
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/travel%20meme.png?raw=true" 
-       alt="Anna ai logo" width="80%" />
+       alt="Anna ai logo" width="60%" />
 </p>
 
 
@@ -45,9 +45,21 @@ Anna.ai is my answer to that question.
 
 ## Phase 1: Research- Understanding Before Designing
 
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/no%20market%20research%20meme.webp?raw=true" 
+       alt="no market research meme" width="50%" />
+</p>
+
+
 I want to be clear about something, I did not start designing screens first. I know that is tempting, especially when you already have ideas, but I have learned that the most dangerous thing a designer or PM can do is fall in love with their solution before they have validated the problem. So I spent a good chunk of this project just researching.
 
 ### Market Research (is this idea worth it?)
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/market%20research%20meme.png?raw=true" 
+       alt="no market research meme" width="65%" />
+</p>
 
 The first thing I wanted to know was: is this even a real market opportunity, or is it just a personal frustration?
 
