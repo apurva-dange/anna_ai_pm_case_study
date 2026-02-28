@@ -186,7 +186,7 @@ To bridge the gap between a cool idea and a sustainable company, I built a full 
 
 I didn't just want a quick answer for how we’d make money; I wanted to understand the entire ecosystem. I looked at our Value Propositions to see how we specifically solve those manual fixes travelers are currently forced to do. I mapped out our Revenue Streams and Key Partners to ensure that the "divergence points" I found in my journey maps actually turned into opportunities for growth.
 
-By starting with the business logic, I ensured that every design decision I made later on was rooted in creating value—not just for the user, but for the long-term success of the product itself.
+By starting with the business logic, I ensured that every design decision I made later on was rooted in creating value not just for the user, but for the long-term success of the product itself.
 
 | Section | Anna.ai's Answer |
 |---|---|
@@ -261,7 +261,7 @@ This is the part I am most proud of. The hi-fi prototype has 12+ screens and cov
 
 **Sign Up & Login Screen**
 
-I kept this as clean as possible — just the essentials. Full name, email, password, and Google/Facebook SSO. The reason is simple, every extra field on a signup form is a drop-off risk. I wanted to minimize friction at the top of the funnel because acquiring a user who never completes onboarding is worse than not acquiring them at all.
+I kept this as clean as possible just the essentials. Full name, email, password, and Google/Facebook SSO. The reason is simple, every extra field on a signup form is a drop-off risk. I wanted to minimize friction at the top of the funnel because acquiring a user who never completes onboarding is worse than not acquiring them at all.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/login%20screen.png?raw=true" 
@@ -279,7 +279,7 @@ The design principle here is **progressive disclosure**: show the user what they
 
 **Inspirations Screen**
 
-This is a Pinterest-style feed of destinations and travel content. But the difference from a regular inspiration board is that each destination card has a contextual AI Pro Tip embedded in it — for example, "Visit Japanese friendship garden early in the morning to avoid the crowds."
+This is a Pinterest-style feed of destinations and travel content. But the difference from a regular inspiration board is that each destination card has a contextual AI Pro Tip embedded in it, for example, "Visit Japanese friendship garden early in the morning to avoid the crowds."
 
 I included this because my user research told me something interesting: travelers do not just want to know *where* to go, they want to feel like they are getting insider knowledge. That is the job of a good travel companion, and it is exactly what Anna should be doing.
 
@@ -298,7 +298,7 @@ A dashboard showing upcoming and past trips. Each trip has a View Plan and Edit 
 
 **Trip Splits Screen**
 
-This is probably the most underrated feature in the app and one I am really happy with. You see your group members, the total balance, what you are owed versus what you owe, broken down by expense. "Dinner at Shibuya — you are owed $80.00" — that level of clarity.
+This is probably the most underrated feature in the app and one I am really happy with. You see your group members, the total balance, what you are owed versus what you owe, broken down by expense. "Dinner at Shibuya, you are owed $80.00" that level of clarity.
 
 What I found in my research is that expense tracking in group trips is one of the *biggest* sources of friction and relationship tension. People avoid the conversation because it is awkward. Making it automated and transparent removes the awkwardness entirely. Good product design should dissolve social friction, not just functional friction.
 
@@ -318,7 +318,7 @@ The mental model I used here is exactly the same as a human travel agent, you do
 
 **Search History & Profile**
 
-Search history is clearable and shows recent queries with enough context to understand what you were looking for without having to remember. Profile gives you Settings, Payment Methods, Travel Preferences, and Help — nothing excessive.
+Search history is clearable and shows recent queries with enough context to understand what you were looking for without having to remember. Profile gives you Settings, Payment Methods, Travel Preferences, and Help, nothing excessive.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/flight%20deals%20.png?raw=true" 
