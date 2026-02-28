@@ -58,7 +58,7 @@ And when I looked at where AI is being applied in travel, there are three main a
 
 ### Competitive Analysis — What Is Already Out There in the MARKET?
 
-I analyzed six competitors. I did not just look at features — I looked at their *strategic positioning*, what user segment they were going after, and most importantly, **where each of them was leaving value on the table.**
+I analyzed six competitors. I did not just look at features, I looked at their *strategic positioning*, what user segment they were going after, and most importantly, **where each of them was leaving value on the table.**
 
 | Competitor | Their Angle | What They're Missing |
 |---|---|---|
