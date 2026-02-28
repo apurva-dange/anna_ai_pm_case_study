@@ -21,7 +21,7 @@ Before I designed anything, I needed to understand *why* trip planning is broken
 
 When I looked at the current experience, the friction points were everywhere. Users are spending hours across multiple platforms with zero continuity between them. There is no single place where you can discover a destination, check if flights are affordable, coordinate with your travel group, and split the final bill. Every one of those tasks lives in a different app.
 
-And here is the thing about friction which I understood over the years in technology innovation and entrepreneurship  — in product thinking, we know that every extra step between a user and their goal is a drop-off risk. Every unnecessary decision costs cognitive load. The travel planning experience today is basically one long chain of unnecessary decisions that nobody has bothered to simplify.
+And here is the thing about friction which I understood over the years in technology innovation and entrepreneurship, in product thinking, we know that every extra step between a user and their goal is a drop-off risk. Every unnecessary decision costs cognitive load. The travel planning experience today is basically one long chain of unnecessary decisions that nobody has bothered to simplify.
 
 So the product question I started with was: **what is the minimum number of interactions a user needs to go from "I want to go somewhere" to "my trip is booked and my group is synced"?**
 
