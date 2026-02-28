@@ -329,7 +329,7 @@ Search history is clearable and shows recent queries with enough context to unde
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/Prototype.gif?raw=true" 
-       alt="Anna.ai Hi-Fi Prototype Demo" width="45%" />
+       alt="Anna.ai Hi-Fi Prototype Demo" width="25%" />
 </p>
 
 
