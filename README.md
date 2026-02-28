@@ -132,6 +132,12 @@ Here is a quick look at who they are and what they each need:
 </p>
 
 <p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/kristen%20persona.png?raw=true" 
+       alt="User Persona 1" width="80%" />
+</p>
+
+
+<p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%201.png?raw=true" 
        alt="User Persona 1" width="80%" />
 </p>
@@ -145,6 +151,10 @@ Here is a quick look at who they are and what they each need:
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%204.png?raw=true" 
        alt="User Persona 4" width="80%" />
 </p>
+
+### Links
+
+- 🎨 **Figjam Board:** *https://www.figma.com/board/T4swU311ILU89s382PDeYz/Anna-AI--Market-Validation-?node-id=0-1&t=y5mPYEF1T04DfQZK-1*
 
 I didn't stop at interviews. I built User Journey Maps for 16 additional personas—including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
 
@@ -336,11 +346,6 @@ Those insights came from the research. Not from me sitting at my desk making ass
 
 If there is one thing I would tell anyone building a product, spend more time in the problem space mostly knowing the customer pain points, mapping them down and try to solve the bottlenecks than you think you need to. The design phase is actually the easy part once you deeply understand who you are designing for and what they are trying to do.
 
-
-
-## 🔗 Links
-
-- 🎨 **Figjam Board:** *https://www.figma.com/board/T4swU311ILU89s382PDeYz/Anna-AI--Market-Validation-?node-id=0-1&t=y5mPYEF1T04DfQZK-1*
 
 
 
