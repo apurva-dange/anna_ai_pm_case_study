@@ -329,11 +329,11 @@ Search history is clearable and shows recent queries with enough context to unde
 
 ## 🛠️ Tools I Used
 
-- **Figma** — Hi-fi prototype and screen design
-- **FigJam** — The full research board: competitive analysis, user personas, journey maps, BMC, wireframes
-- **Statista + Google Search + Reddit** — Market sizing and trend research
-- **Google Gemini** — Secondary research synthesis
-- **On-campus ASU interviews** — Primary qualitative user research
+- **Figma** - Hi-fi prototype and screen design
+- **FigJam** - The full research board: competitive analysis, user personas, journey maps, BMC, wireframes
+- **Statista + Google Search + Reddit** - Market sizing and trend research
+- **Google Gemini** - Secondary research synthesis
+- **On-campus ASU interviews** - Primary qualitative user research
 - **Rapid Prototyping** - Bolt.new
 
 
