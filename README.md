@@ -98,9 +98,15 @@ After mapping all of this, I created a **Similarities, Differences, Learnings, a
 
 ### User Research - where facts meet the reality
 
-Honestly, this was my favorite part of the whole project. I went on-campus at ASU and conducted real interviews with people who actually travel eg, students, professors, families, international students from which I can learn the real stories about real trips that went well and trips that didn't.
+Honestly, this was my favorite part of the whole project. I went on-campus at ASU and conducted real interviews with people who actually travel eg, students, professors, families, and international students. I wanted to learn the real stories about real trips that went well and trips that didn't.
 
-I designed **17 open-ended interview questions** specifically to avoid leading the participant toward any particular answer. More of open style or open ended questions. I learned early on that if you ask "do you find trip planning stressful?" you are going to get "yes" because that is a leading question. Instead I asked things like "tell me about a trip that didn't go well — what happened?" or "if you had the power to change one thing about how you plan trips, what would it be?" Those are the questions that get you somewhere real.
+I designed 17 open-ended interview questions specifically to avoid leading the participant toward any particular answer. I learned early on that if you ask "do you find trip planning stressful?" you are going to get "yes" because that is a leading question. It feeds them the answer. Instead, I anchored my questions in their past behavior rather than hypothetical future promises. I asked things like "tell me about a trip that didn't go well, what happened?" because users are highly reliable historians of their own past pain, but terrible at predicting what they might do in the future.
+
+During the sessions, I leaned into core UX techniques to get bottom of the ocean full of opportunities to solve these painpoints. I learned to embrace the "awkward pause"—simply waiting a few seconds after a participant answered. People naturally want to fill the silence, and that is usually when they dropped their guard and revealed deeper emotional frustrations. When they mentioned a specific pain point, I used the "Five Whys" technique to drill down to the root cause, rather than just accepting the first thing they said.
+
+One of the most valuable things I looked for during these interviews were "workarounds." If someone told me they had to use three different apps, take a screenshot, and text it to their partner/group of friends just to coordinate a flight, I paid close attention. Whenever a user uses their own manual solution, it means the problem is painful enough that they are actively spending time trying to solve it. Those are the massive neon signs pointing to real product opportunities.
+
+After wrapping up the interviews, I had ton of raw qualitative data. To make sense of it all and turn it into actionable insights, I used affinity mapping. I pulled out the most impactful quotes and observations, grouped them by theme, and looked for the overlaps. I wasn't just looking for what one person said but I was looking for the patterns across all the users. Those are the insights the one's which will connect the dots.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/user%20interview%20questions.png?raw=true" 
