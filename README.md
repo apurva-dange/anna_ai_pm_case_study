@@ -156,7 +156,7 @@ Here is a quick look at who they are and what they each need:
 
 - 🎨 **Figjam Board:** *https://www.figma.com/board/T4swU311ILU89s382PDeYz/Anna-AI--Market-Validation-?node-id=0-1&t=y5mPYEF1T04DfQZK-1*
 
-I didn't stop at interviews. I built User Journey Maps for 16 additional personas—including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
+I didn't stop at interviews. I built User Journey Maps for 16 additional personas, including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
 
 This is something I feel strongly about: journey mapping is not just a deliverable but they are more of a thinking tool. The goal isn't just to make a pretty diagram for a presentation. The real point is to find the "divergence points" which are those specific moments where a user’s expectations and their actual reality move apart.
 
@@ -169,7 +169,7 @@ When I looked at these maps, I wasn't just looking for a quick answer about what
 
 
 
-## 💡 Phase 2: Define — Translating Research Into a Product Direction
+## 💡 Phase 2: Define: Translating Research Into a Product Direction
 
 After all that research, I had a lot of information. The challenge now was: what do I actually *build*?
 
@@ -271,7 +271,7 @@ I kept this as clean as possible — just the essentials. Full name, email, pass
 
 **AI Assistant + Slider Navigation**
 
-The main experience is conversation-first. Anna is an AI you *talk to*, not a form you fill out. The dark slide-out navigation gives you access to Inspirations, My Chats, Trip Split, Flights Deals, Hotel Deals, and Search History but it lives behind a hamburger menu so it does not clutter the primary experience.
+The main experience is conversation-first. Anna is an AI you *talk to*, not a form you fill out. The dark slide out navigation gives you access to Inspirations, My Chats, Trip Split, Flights Deals, Hotel Deals, and Search History but it lives behind a hamburger menu so it does not clutter the primary experience.
 
 The design principle here is **progressive disclosure**: show the user what they need right now and hide complexity until they actively ask for it.
 
