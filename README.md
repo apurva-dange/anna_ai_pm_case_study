@@ -243,7 +243,7 @@ User goes to My Trips, selects a trip, opens Trip Splits, sees the breakdown of 
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20workflow/Trip%20expense.png?raw=true" 
-       alt="Trip Expense Wireframe" width="80%" />
+       alt="Trip Expense Wireframe" width="50%" />
 </p>
 
 
@@ -254,7 +254,7 @@ This is the part I am most proud of. The hi-fi prototype has 12+ screens and cov
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/all%20frames.png?raw=true" 
-       alt="All Frames Overview" width="100%" />
+       alt="All Frames Overview" width="140%" />
 </p>
 
 
@@ -265,7 +265,7 @@ I kept this as clean as possible just the essentials. Full name, email, password
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/login%20screen.png?raw=true" 
-       alt="Login and Sign Up Screens" width="80%" />
+       alt="Login and Sign Up Screens" width="60%" />
 </p>
 
 
@@ -285,7 +285,7 @@ I included this because my user research told me something interesting: traveler
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/inspiration%20screen.png?raw=true" 
-       alt="Inspiration Screen" width="80%" />
+       alt="Inspiration Screen" width="100%" />
 </p>
 
 
