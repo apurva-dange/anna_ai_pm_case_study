@@ -25,6 +25,13 @@ That's the gap Anna.ai fills. One conversational AI that helps you find deals, p
 
 ## The Problem!
 
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/travel%20meme.png?raw=true" 
+       alt="Anna ai logo" width="80%" />
+</p>
+
+
 Before I designed anything, I needed to understand *why* trip planning is broken. Not assume but by actually understanding it.
 
 When I looked at the current experience, the friction points were everywhere. Users are spending hours across multiple platforms with zero continuity between them. There is no single place where you can discover a destination, check if flights are affordable, coordinate with your travel group, and split the final bill. Every one of those tasks lives in a different app.
