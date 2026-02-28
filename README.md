@@ -127,8 +127,23 @@ Here is a quick look at who they are and what they each need:
 | **Ankush** | Solo traveler, best friend trips, last-minute booker | Can't stand upsells or complicated checkout flows | Clean no-noise UI, sub-2-tap booking, last-minute solo deals |
 
 <p align="center">
-  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/user%20persona%20zoomed%20.png?raw=true" 
-       alt="User Persona Zoomed Detail" width="80%" />
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%202.png?raw=true" 
+       alt="User Persona 2" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%201.png?raw=true" 
+       alt="User Persona 1" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%203.png?raw=true" 
+       alt="User Persona 3" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/user%20persona/User%20Persona%204.png?raw=true" 
+       alt="User Persona 4" width="80%" />
 </p>
 
 I didn't stop at interviews. I built User Journey Maps for 16 additional personas—including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
