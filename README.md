@@ -156,7 +156,7 @@ Here is a quick look at who they are and what they each need:
 
 - 🎨 **Figjam Board:** *https://www.figma.com/board/T4swU311ILU89s382PDeYz/Anna-AI--Market-Validation-?node-id=0-1&t=y5mPYEF1T04DfQZK-1*
 
-I didn't stop at interviews. I built User Journey Maps for 16 additional personas, including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
+I didn't stop at interviews. I built User Journey Maps for 16 additional personas, including Kristen, Triveni, Diane, Manoj, etc to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
 
 This is something I feel strongly about: journey mapping is not just a deliverable but they are more of a thinking tool. The goal isn't just to make a pretty diagram for a presentation. The real point is to find the "divergence points" which are those specific moments where a user’s expectations and their actual reality move apart.
 
