@@ -1,9 +1,9 @@
-# 🏝️ Anna.ai — AI Travel Planning App
-### Designed by: Apurva Dange | Arizona State University
+# 🏝️ Anna.ai - AI Travel Planning App
+### Founded by: Apurva Dange 
 
 > *"Trip planning shouldn't feel like a second job. That was the first thing I wrote on my FigJam board when I started this project and honestly, that one sentence drove every single design decision after it."*
 
----
+
 
 ## What Is Anna.ai?
 
@@ -14,8 +14,6 @@ The core idea is simple: right now, planning a trip is *exhausting*. You're jump
 That's the gap Anna.ai fills. One conversational AI that helps you find deals, plan your itinerary, split expenses with your group, and get travel inspiration but without the overwhelm.
 
 **In this project I am covering:** Market Research → Competitive Analysis → User Interviews → Persona Building → Journey Mapping → Business Model Canvas → Lo-Fi Wireframes → Hi-Fi Prototype
-
----
 
 ## The Problem!
 
@@ -29,13 +27,10 @@ So the product question I started with was: **what is the minimum number of inte
 
 Anna.ai is my answer to that question.
 
----
 
-## Phase 1: Research — Understanding Before Designing
+## Phase 1: Research - Understanding Before Designing
 
 I want to be clear about something, I did not start designing screens first. I know that is tempting, especially when you already have ideas, but I have learned that the most dangerous thing a designer or PM can do is fall in love with their solution before they have validated the problem. So I spent a good chunk of this project just researching.
-
----
 
 ### Market Research (is this idea worth it?)
 
@@ -59,7 +54,7 @@ And when I looked at where AI is being applied in travel, there are three main a
        alt="Market Research Board" width="80%" />
 </p>
 
----
+
 
 ### Competitive Analysis — What Is Already Out There in the MARKET?
 
@@ -94,17 +89,17 @@ After mapping all of this, I created a **Similarities, Differences, Learnings, a
        alt="Similarities Differences Learnings Opportunities" width="80%" />
 </p>
 
----
+
 
 ### User Research - where facts meet the reality
 
 Honestly, this was my favorite part of the whole project. I went on-campus at ASU and conducted real interviews with people who actually travel eg, students, professors, families, and international students. I wanted to learn the real stories about real trips that went well and trips that didn't.
 
-I designed 17 open-ended interview questions specifically to avoid leading the participant toward any particular answer. I learned early on that if you ask "do you find trip planning stressful?" you are going to get "yes" because that is a leading question. It feeds them the answer. Instead, I anchored my questions in their past behavior rather than hypothetical future promises. I asked things like "tell me about a trip that didn't go well, what happened?" because users are highly reliable historians of their own past pain, but terrible at predicting what they might do in the future.
+I designed 17 open-ended interview questions specifically to avoid leading the participant toward any particular answer. I learned early on that if you ask "do you find trip planning stressful?" you are going to get "yes" because that is a leading question. It feeds them the answer. Instead, I tailored my questions in their past behavior rather than hypothetical future promises. I asked things like "tell me about a trip that didn't go well, what happened?" because users are highly reliable historians of their own past pain, but terrible at predicting what they might do in the future.
 
-During the sessions, I leaned into core UX techniques to get bottom of the ocean full of opportunities to solve these painpoints. I learned to embrace the "awkward pause"—simply waiting a few seconds after a participant answered. People naturally want to fill the silence, and that is usually when they dropped their guard and revealed deeper emotional frustrations. When they mentioned a specific pain point, I used the "Five Whys" technique to drill down to the root cause, rather than just accepting the first thing they said.
+During the sessions, I leaned into core UX techniques to get bottom of the ocean full of opportunities to solve these painpoints. I learned to embrace the "awkward pause", simply waiting a few seconds after a participant answered. People naturally want to fill the silence, and that is usually when they dropped their guard and revealed deeper emotional frustrations. When they mentioned a specific pain point, I used the "Five Whys" technique to drill down to the root cause, rather than just accepting the first thing they said.
 
-One of the most valuable things I looked for during these interviews were "workarounds." If someone told me they had to use three different apps, take a screenshot, and text it to their partner/group of friends just to coordinate a flight, I paid close attention. Whenever a user uses their own manual solution, it means the problem is painful enough that they are actively spending time trying to solve it. Those are the massive neon signs pointing to real product opportunities.
+One of the most valuable things I looked for during these interviews were "workarounds." If someone told me they had to use three different apps, take a screenshot, and text it to their partner/group of friends just to coordinate a flight, I paid close attention. Whenever a user uses their own manual solution, it means the problem is painful enough that they are actively spending time trying to solve it. Those are the massive indicators pointing to real product opportunities.
 
 After wrapping up the interviews, I had ton of raw qualitative data. To make sense of it all and turn it into actionable insights, I used affinity mapping. I pulled out the most impactful quotes and observations, grouped them by theme, and looked for the overlaps. I wasn't just looking for what one person said but I was looking for the patterns across all the users. Those are the insights the one's which will connect the dots.
 
@@ -113,7 +108,7 @@ After wrapping up the interviews, I had ton of raw qualitative data. To make sen
        alt="User Interview Questions" width="80%" />
 </p>
 
-From the interviews, I built **6 detailed user personas** — and I want to be clear that these are not made-up characters. These are AI-summarized versions of real people I actually spoke to on campus.
+From the interviews, I built **6 detailed user personas** and I want to be clear that these are not made-up characters. These are AI-summarized versions of real people I actually spoke to on campus, yes we should use AI wherever necessary.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/User%20persona%20-%20ASU%20campus.png?raw=true" 
@@ -136,16 +131,18 @@ Here is a quick look at who they are and what they each need:
        alt="User Persona Zoomed Detail" width="80%" />
 </p>
 
-I also built **User Journey Maps** for 16 additional personas of Kristen, Gauri T, Diane Katz, Jyoti, etc by mapping their experience across five stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For each stage I documented what they are doing, what they are feeling, where the pain points are, and where the opportunities for the product live.
+I didn't stop at interviews. I built User Journey Maps for 16 additional personas—including Kristen, Gauri T, Diane Katz, and Jyoti—to visualize their end-to-end travel experience. I mapped their paths across five key stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For every single stage, I documented exactly what they were doing, what they were feeling, and where the specific pain points lived.
 
-This is something I feel strongly about: journey mapping is not a deliverable, it is a thinking tool. The point is not to make a pretty diagram, it is to find the moments where your user's expectations and their actual experience diverge the most. Those divergence points are where your product creates the most value.
+This is something I feel strongly about: journey mapping is not just a deliverable but they are more of a thinking tool. The goal isn't just to make a pretty diagram for a presentation. The real point is to find the "divergence points" which are those specific moments where a user’s expectations and their actual reality move apart.
+
+When I looked at these maps, I wasn't just looking for a quick answer about what was wrong. I was looking for the makeshift fixes people created when the existing tools failed them. Those gaps between what a traveler expects and what they actually get are exactly where a product creates the most value. By identifying these friction points across 16 different types of travelers, I was able to pinpoint exactly where the most impactful opportunities for the product were hiding.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/full%20figjam.png?raw=true" 
        alt="Full FigJam Brainstorming Board" width="80%" />
 </p>
 
----
+
 
 ## 💡 Phase 2: Define — Translating Research Into a Product Direction
 
@@ -155,13 +152,16 @@ This is the phase that I think separates okay product thinking from great produc
 
 For Anna.ai, the underlying need was: **reduce the number of context switches a traveler has to make between discovery, planning, booking, and coordination.** Everything I designed flows from that.
 
----
 
 ### 🏗️ Business Model Canvas
 
-Before designing any screens, I wanted to make sure the product could actually work as a business. A good product that has no viable business model is just an expensive side project.
+Before I ever touched a design tool or sketched a single screen, I had to answer a hard question: Does this actually work as a business? I’ve seen plenty of great-looking products fail because they had no real path to staying alive. A good product without a viable business model is just an expensive side project.
 
-Here is the full Business Model Canvas I built for Anna.ai:
+To bridge the gap between a cool idea and a sustainable company, I built a full Business Model Canvas for Anna.ai.
+
+I didn't just want a quick answer for how we’d make money; I wanted to understand the entire ecosystem. I looked at our Value Propositions to see how we specifically solve those manual fixes travelers are currently forced to do. I mapped out our Revenue Streams and Key Partners to ensure that the "divergence points" I found in my journey maps actually turned into opportunities for growth.
+
+By starting with the business logic, I ensured that every design decision I made later on was rooted in creating value—not just for the user, but for the long-term success of the product itself.
 
 | Section | Anna.ai's Answer |
 |---|---|
@@ -180,19 +180,19 @@ Here is the full Business Model Canvas I built for Anna.ai:
        alt="Business Model Canvas" width="80%" />
 </p>
 
-The revenue model I landed on — freemium + ads + commissions — is intentional. Freemium lowers the barrier to entry for budget travelers (a huge segment, as my personas showed). Commissions on bookings create alignment between Anna.ai and the user: we both benefit when they find and book the best deal. And ads, if done right, can actually be useful in a travel context (think targeted local experiences or partner promotions in a destination you're already researching).
+The revenue model I landed on was freemium + ads + commissions. Freemium lowers the barrier to entry for budget travelers (a huge segment, as my personas showed). Commissions on bookings create alignment between Anna.ai and the user: we both benefit when they find and book the best deal. And ads, if done right, can actually be useful in a travel context (think targeted local experiences or partner promotions in a destination you're already researching).
 
----
+
 
 ## 🎨 Phase 3: Design — From Sketches to Screens
 
 This is where all the research becomes something you can actually *see and touch*. I went through two rounds of design: lo-fidelity wireframes first to figure out the flows and structure, then hi-fidelity screens to make it feel like a real product.
 
----
+
 
 ### ✏️ Lo-Fidelity Wireframes
 
-I sketched three primary user flows before touching Figma. The reason I do lo-fi first is not because it is faster — it is because low-fidelity thinking forces you to focus on *structure and flow* rather than getting distracted by colors and typography. You cannot hide a bad UX behind nice visuals in a pencil sketch.
+I sketched three primary user flows before touching Figma. The reason I do lo-fi first is not because it is faster, it is because low-fidelity thinking forces you to focus on *structure and flow* rather than getting distracted by colors and typography. You cannot hide a bad UX behind nice visuals in a pencil sketch.
 
 **Flow 1 — Flight Deal Flow**
 
@@ -221,9 +221,9 @@ User goes to My Trips, selects a trip, opens Trip Splits, sees the breakdown of 
        alt="Trip Expense Wireframe" width="80%" />
 </p>
 
----
 
-### 📱 Hi-Fidelity Prototype — The Full Screen-by-Screen Breakdown
+
+### 📱 Hi-Fidelity Prototype 
 
 This is the part I am most proud of. The hi-fi prototype has 12+ screens and covers the full user journey from first open to post-trip. Here is what each screen is doing and *why* it was designed that way:
 
@@ -232,30 +232,29 @@ This is the part I am most proud of. The hi-fi prototype has 12+ screens and cov
        alt="All Frames Overview" width="100%" />
 </p>
 
----
+
 
 **Sign Up & Login Screen**
 
-I kept this as clean as possible — just the essentials. Full name, email, password, and Google/Facebook SSO. The reason is simple: every extra field on a signup form is a drop-off risk. I wanted to minimize friction at the top of the funnel because acquiring a user who never completes onboarding is worse than not acquiring them at all.
+I kept this as clean as possible — just the essentials. Full name, email, password, and Google/Facebook SSO. The reason is simple, every extra field on a signup form is a drop-off risk. I wanted to minimize friction at the top of the funnel because acquiring a user who never completes onboarding is worse than not acquiring them at all.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/login%20screen.png?raw=true" 
        alt="Login and Sign Up Screens" width="80%" />
 </p>
 
----
 
 **AI Assistant + Slider Navigation**
 
-The main experience is conversation-first. Anna is an AI you *talk to*, not a form you fill out. The dark slide-out navigation gives you access to Inspirations, My Chats, Trip Split, Flights Deals, Hotel Deals, and Search History — but it lives behind a hamburger menu so it does not clutter the primary experience.
+The main experience is conversation-first. Anna is an AI you *talk to*, not a form you fill out. The dark slide-out navigation gives you access to Inspirations, My Chats, Trip Split, Flights Deals, Hotel Deals, and Search History but it lives behind a hamburger menu so it does not clutter the primary experience.
 
 The design principle here is **progressive disclosure**: show the user what they need right now and hide complexity until they actively ask for it.
 
----
+
 
 **Inspirations Screen**
 
-This is a Pinterest-style feed of destinations and travel content. But the difference from a regular inspiration board is that each destination card has a contextual AI Pro Tip embedded in it — for example, "Visit Fushimi Inari early in the morning to avoid the crowds."
+This is a Pinterest-style feed of destinations and travel content. But the difference from a regular inspiration board is that each destination card has a contextual AI Pro Tip embedded in it — for example, "Visit Japanese friendship garden early in the morning to avoid the crowds."
 
 I included this because my user research told me something interesting: travelers do not just want to know *where* to go, they want to feel like they are getting insider knowledge. That is the job of a good travel companion, and it is exactly what Anna should be doing.
 
@@ -264,13 +263,13 @@ I included this because my user research told me something interesting: traveler
        alt="Inspiration Screen" width="80%" />
 </p>
 
----
+
 
 **My Trips Screen**
 
-A dashboard showing upcoming and past trips. Each trip has a View Plan and Edit button. This is the central hub for the user's travel life — past, present, future. The design prioritizes upcoming trips at the top with a clear status badge (Upcoming / Past) so the most relevant information is always first.
+A dashboard showing upcoming and past trips. Each trip has a View Plan and Edit button. This is the central hub for the user's travel life like past, present, future. The design prioritizes upcoming trips at the top with a clear status badge (Upcoming / Past) so the most relevant information is always first.
 
----
+
 
 **Trip Splits Screen**
 
@@ -278,32 +277,30 @@ This is probably the most underrated feature in the app and one I am really happ
 
 What I found in my research is that expense tracking in group trips is one of the *biggest* sources of friction and relationship tension. People avoid the conversation because it is awkward. Making it automated and transparent removes the awkwardness entirely. Good product design should dissolve social friction, not just functional friction.
 
----
+
 
 **My Chats Screen**
 
-Group and individual chat view, with three smart action buttons at the bottom: AI Summarizer, Create Expense, Create Poll. The AI Summarizer was a direct response to a user insight — when you are in a chaotic group travel chat, nobody wants to scroll back through 200 messages to find out if someone already confirmed the hotel. One tap and Anna summarizes the thread for you.
+Group and individual chat view, with three smart action buttons at the bottom: AI Summarizer, Create Expense, Create Poll. The AI Summarizer was a direct response to a user insight, when you are in a chaotic group travel chat, nobody wants to scroll back through 200 messages to find out if someone already confirmed the hotel. One tap and Anna summarizes the thread for you.
 
----
+
 
 **Flight Deals Screen**
 
 This is the deal-finding engine. You have four AI Travel Agents: Cheap Flight Agent, Coupon Finder, Track Price Drops, and Flight Comparison. Below that, you have Saved Flights and a Recently Used section.
 
-The mental model I used here is exactly the same as a human travel agent — you do not call a travel agent and ask them to do everything at once, you call them for a specific job. The AI agents are designed around discrete jobs-to-be-done: find the cheapest option, apply a coupon, alert me when the price drops, compare carriers.
+The mental model I used here is exactly the same as a human travel agent, you do not call a travel agent and ask them to do everything at once, you call them for a specific job. The AI agents are designed around discrete jobs-to-be-done: find the cheapest option, apply a coupon, alert me when the price drops, compare carriers.
+
+**Search History & Profile**
+
+Search history is clearable and shows recent queries with enough context to understand what you were looking for without having to remember. Profile gives you Settings, Payment Methods, Travel Preferences, and Help — nothing excessive.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/flight%20deals%20.png?raw=true" 
        alt="Flight Deals Screen" width="80%" />
 </p>
 
----
 
-**Search History & Profile**
-
-Search history is clearable and shows recent queries with enough context to understand what you were looking for without having to remember. Profile gives you Settings, Payment Methods, Travel Preferences, and Help — nothing excessive.
-
----
 
 ## 🛠️ Tools I Used
 
@@ -312,33 +309,30 @@ Search history is clearable and shows recent queries with enough context to unde
 - **Statista + Google Search + Reddit** — Market sizing and trend research
 - **Google Gemini** — Secondary research synthesis
 - **On-campus ASU interviews** — Primary qualitative user research
+- **Rapid Prototyping** - Bolt.new
 
----
 
-## 🧠 What I Learned From This Project
 
-I want to be honest here — I started this project thinking I already knew what the app should do. I've planned enough trips to know the pain. But the research genuinely surprised me and changed the design.
+## Learnings:
 
-I did not know how differently a budget-focused international student and a family traveler think about the same trip. I did not realize that the *post-trip memory sharing* experience was something users cared so much about. I did not expect that several users would say the most important thing to them is just being able to trust the information they're getting.
+I want to be honest here, I started this project thinking I already knew what the app should do. I've planned enough trips to know the pain. But the research genuinely surprised me and changed the design. I did not know how differently a budget-focused international student and a family traveler think about the same trip. I did not realize that the *post-trip memory sharing* experience was something users cared so much about. I did not expect that several users would say the most important thing to them is just being able to trust the information they're getting.
 
 Those insights came from the research. Not from me sitting at my desk making assumptions.
 
-If there is one thing I would tell anyone building a product — spend more time in the problem space than you think you need to. The design phase is actually the easy part once you deeply understand who you are designing for and what they are trying to do.
+If there is one thing I would tell anyone building a product, spend more time in the problem space mostly knowing the customer pain points, mapping them down and try to solve the bottlenecks than you think you need to. The design phase is actually the easy part once you deeply understand who you are designing for and what they are trying to do.
 
----
+
 
 ## 🔗 Links
 
-- 🎨 **Figma Prototype:** *[Add link here]*
-- 📋 **FigJam Research Board:** *[Add link here]*
-- 📄 **Case Study Presentation:** *[Add link here]*
+- 🎨 **Figjam Board:** *https://www.figma.com/board/T4swU311ILU89s382PDeYz/Anna-AI--Market-Validation-?node-id=0-1&t=y5mPYEF1T04DfQZK-1*
 
----
+
 
 ## 👤 About Me
 
-**Apurva Annasaheb Dange**
-*Arizona State University — MS Information Technology*
+**Apurva Dange**
+*Arizona State University — MS Management of Technology*
 Interested in product management, UX design, and building things people actually want to use.
 
 ---
