@@ -9,11 +9,19 @@
 
 Anna.ai is an AI-powered mobile travel companion I designed from scratch: from the first sticky note on a FigJam board all the way to a high-fidelity Figma prototype.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/PNG%20image.jpg?raw=true" 
+       alt="Anna ai logo" width="30%" />
+</p>
+
+
 The core idea is simple: right now, planning a trip is *exhausting*. You're jumping between Google Flights, Reddit, TripAdvisor, a group chat with your friends, and three different booking apps, all just to figure out where to go and how much it'll cost. Nobody has built one app that brings all of that together in a way that actually feels lightweight and easy to use.
 
 That's the gap Anna.ai fills. One conversational AI that helps you find deals, plan your itinerary, split expenses with your group, and get travel inspiration but without the overwhelm.
 
 **In this project I am covering:** Market Research → Competitive Analysis → User Interviews → Persona Building → Journey Mapping → Business Model Canvas → Lo-Fi Wireframes → Hi-Fi Prototype
+
+
 
 ## The Problem!
 
