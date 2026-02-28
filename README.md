@@ -136,9 +136,9 @@ Here is a quick look at who they are and what they each need:
        alt="User Persona Zoomed Detail" width="80%" />
 </p>
 
-I also built **User Journey Maps** for four additional personas — Kristen, Gauri T, Diane Katz, and Jyoti — mapping their experience across five stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For each stage I documented what they are doing, what they are feeling, where the pain points are, and where the opportunities for the product live.
+I also built **User Journey Maps** for 16 additional personas of Kristen, Gauri T, Diane Katz, Jyoti, etc by mapping their experience across five stages: Awareness, Consideration, Decision, Experience, and Post-Trip. For each stage I documented what they are doing, what they are feeling, where the pain points are, and where the opportunities for the product live.
 
-This is something I feel strongly about: journey mapping is not a deliverable, it is a thinking tool. The point is not to make a pretty diagram — it is to find the moments where your user's expectations and their actual experience diverge the most. Those divergence points are where your product creates the most value.
+This is something I feel strongly about: journey mapping is not a deliverable, it is a thinking tool. The point is not to make a pretty diagram, it is to find the moments where your user's expectations and their actual experience diverge the most. Those divergence points are where your product creates the most value.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/full%20figjam.png?raw=true" 
