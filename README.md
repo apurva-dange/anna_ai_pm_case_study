@@ -164,7 +164,7 @@ When I looked at these maps, I wasn't just looking for a quick answer about what
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/full%20figjam.png?raw=true" 
-       alt="Full FigJam Brainstorming Board" width="80%" />
+       alt="Full FigJam Brainstorming Board" width="130%" />
 </p>
 
 
@@ -322,7 +322,7 @@ Search history is clearable and shows recent queries with enough context to unde
 
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/flight%20deals%20.png?raw=true" 
-       alt="Flight Deals Screen" width="80%" />
+       alt="Flight Deals Screen" width="90%" />
 </p>
 
 **Hi-fi prototype demo**
