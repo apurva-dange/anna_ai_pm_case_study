@@ -340,21 +340,11 @@ Search history is clearable and shows recent queries with enough context to unde
 
 ## Learnings:
 
-I want to be honest here, I started this project thinking I already knew what the app should do. I've planned enough trips to know the pain. But the research genuinely surprised me and changed the design. I did not know how differently a budget-focused international student and a family traveler think about the same trip. I did not realize that the *post-trip memory sharing* experience was something users cared so much about. I did not expect that several users would say the most important thing to them is just being able to trust the information they're getting.
+I want to be honest here, I started this project thinking I already knew what the app should do. I've planned enough trips to know the pain. But the research genuinely surprised me and changed the design. I did not know how differently a budget focused international student and a family traveler think about the same trip. I did not realize that the *post trip memory sharing* experience was something users cared so much about. I did not expect that several users would say the most important thing to them is just being able to trust the information they're getting.
 
 Those insights came from the research. Not from me sitting at my desk making assumptions.
 
 If there is one thing I would tell anyone building a product, spend more time in the problem space mostly knowing the customer pain points, mapping them down and try to solve the bottlenecks than you think you need to. The design phase is actually the easy part once you deeply understand who you are designing for and what they are trying to do.
 
 
-
-
-## 👤 About Me
-
-**Apurva Dange**
-*Arizona State University — MS Management of Technology*
-Interested in product management, UX design, and building things people actually want to use.
-
----
-
-> *"I didn't just design an app — I figured out why trip planning is broken, talked to real people about it, mapped the whole system, and then designed a solution that addresses the actual root cause. That is what this project is about."*
+Thank you for going through my project. 
