@@ -325,6 +325,12 @@ Search history is clearable and shows recent queries with enough context to unde
        alt="Flight Deals Screen" width="80%" />
 </p>
 
+**Hi-fi prototype demo**
+
+<p align="center">
+  <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/High%20fidelity%20wireframes/Prototype.gif?raw=true" 
+       alt="Anna.ai Hi-Fi Prototype Demo" width="45%" />
+</p>
 
 
 ## 🛠️ Tools I Used
