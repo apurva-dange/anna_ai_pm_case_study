@@ -3,17 +3,34 @@
 
 > *"Trip planning shouldn't feel like a second job. That was the first thing I wrote on my FigJam board when I started this project and honestly, that one sentence drove every single design decision after it."*
 
-
-
-## What Is Anna.ai?
-
-Anna.ai is an AI-powered mobile travel companion I designed from scratch: from the first sticky note on a FigJam board all the way to a high-fidelity Figma prototype.
-
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/PNG%20image.jpg?raw=true" 
        alt="Anna ai logo" width="30%" />
 </p>
 
+### TL;DR 
+
+- **What it is:** Anna.ai is an **AI-powered travel planning app prototype** I built end-to-end to simplify trip planning.  
+- **Problem:** Trip planning today forces users to **jump across multiple apps** for discovery, pricing, booking, group coordination, and expense splitting.  
+- **Research done:**  
+  - Market research  
+  - Competitive analysis  
+  - On-campus user interviews  
+- **PM deliverables created:**  
+  - Personas  
+  - Journey maps  
+  - Business Model Canvas  
+  - MVP scope + prioritized user flows  
+- **What I built:** A **hi-fi Figma prototype (12+ screens)** with a **conversation-first AI assistant** and feature modules for:  
+  - Flight deal-finding agents  
+  - Itinerary planning + sharing  
+  - Group coordination  
+  - Automated expense splitting  
+- **Outcome:** Designed to **reduce cognitive load**, minimize context switching, and help users go from **idea → booked trip → synced group** with fewer steps.
+
+## What Is Anna.ai?
+
+Anna.ai is an AI-powered mobile travel companion I designed from scratch: from the first sticky note on a FigJam board all the way to a high-fidelity Figma prototype.
 
 The core idea is simple: right now, planning a trip is *exhausting*. You're jumping between Google Flights, Reddit, TripAdvisor, a group chat with your friends, and three different booking apps, all just to figure out where to go and how much it'll cost. Nobody has built one app that brings all of that together in a way that actually feels lightweight and easy to use.
 
