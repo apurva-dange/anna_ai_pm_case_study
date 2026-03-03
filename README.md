@@ -3,12 +3,16 @@
 
 > *"Trip planning shouldn't feel like a second job. That was the first thing I wrote on my FigJam board when I started this project and honestly, that one sentence drove every single design decision after it."*
 
+
+
 <p align="center">
   <img src="https://github.com/apurva-dange/anna_ai_pm_case_study/blob/main/strategy/PNG%20image.jpg?raw=true" 
        alt="Anna ai logo" width="30%" />
 </p>
 
 ### TL;DR 
+> est read time 15 min
+
 
 - **What it is:** Anna.ai is an **AI-powered travel planning app prototype** I built end-to-end to simplify trip planning.  
 - **Problem:** Trip planning today forces users to **jump across multiple apps** for discovery, pricing, booking, group coordination, and expense splitting.  
